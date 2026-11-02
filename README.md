@@ -1,17 +1,20 @@
 <div align="center">
 
-# 👋 Hi, I'm Prajesh Nair
+# 👋 Hi, I'm Senthil Arasu
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Engineer+at+heart.;Curious+by+nature.;Building+things+that+matter." alt="Typing introduction" />
+</p>
 
-### Student Innovator • Robotics • Embedded Systems • PCB Design • IoT • AI
+### Solving for a Cause • Robotics • Embedded Systems • PCB Design • IoT • AI
 
-*"Turning ideas into real-world engineering solutions through hardware and software."*
+*Turning ideas into real-world solutions through engineering.*
 
-<img src="Assets/Profile Images/Banner.png" width="100%">
+<!--<img src="Assets/Profile Images/Banner.png" width="100%">
 <p>
-<a href="https://www.linkedin.com/in/prajeshnair"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<<a href="https://www.linkedin.com/in/prajeshnair"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/Prajesh-Nair"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="mailto:nairprajesh2007.github@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+</p>-->
 
 
 </div>
@@ -25,11 +28,11 @@
 
 <td width="35%" align="center">
 
-<img src="Assets/Profile Images/PFP.jpg" width="250">
+<img src="Assets/Profile Images/PFP.png" width="250">
 
 <br><br>
 
-### Student Innovator
+### Building things that make a difference
 
 Building technology that solves real-world problems.
 
@@ -39,15 +42,15 @@ Building technology that solves real-world problems.
 
 ```yaml
 Name:
-  Prajesh Nair
+  Senthil Arasu J
 
 Education:
-  Final Year High School Student
+  Final Year High School Student @ Vels Vidyashram
 
 Current Roles:
-  • President — The QU4D COACH
-  • Student Mentor @ STEAM Camp 2025
-  • Cyber Captain & Science Captain — DLF Public School
+  • Co-Founder - Knight Labs
+  • Vice President — The QU4D COACH
+  • Techinical Director - Entwinity
 
 Interests:
   • Robotics
@@ -57,14 +60,15 @@ Interests:
   • Artificial Intelligence
   • Aerospace
   • Automobiles
+  • Entrepreneurship
 
 Currently Building:
   • JATAYU Flight Controller
-  • NeuroSketch
-  • Embedded AI Systems
+  • DialPad!
+  • A Pcb Fabricator
 
 Learning:
-  • RTOS
+  • CAD
   • Advanced PCB Design
   • Drone Flight Control
 ```
@@ -82,14 +86,6 @@ I enjoy building products from the ground up—from designing circuits and PCBs 
 
 My interests primarily revolve around:
 
-- Robotics
-- Drone Technology
-- Internet of Things
-- Embedded Systems
-- Artificial Intelligence
-- Software Development
-- PCB Design
-- Engineering for Social Impact
 
 ---
 
@@ -99,7 +95,7 @@ My interests primarily revolve around:
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,sqlite"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,bash,html,css,qt,"/>
 
 </p>
 
@@ -121,14 +117,16 @@ My interests primarily revolve around:
 ## Software & Tools
 
 <p>
-
+<img src="https://skillicons.dev/icons?i=arch"/>
+<img src="https://skillicons.dev/icons?i=linux"/>
+<img src="https://skillicons.dev/icons?i=windows"/>
+<img src="https://skillicons.dev/icons?i=docker"/>
 <img src="https://skillicons.dev/icons?i=vscode"/>
 <img src="https://skillicons.dev/icons?i=git"/>
 <img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://skillicons.dev/icons?i=cmake"/>
 <img src="Assets/LOGOs/KICAD.png" height="48">
 <img src="Assets/LOGOs/canva.jpg" height="48">
-<img src="Assets/LOGOs/PS.png" height="48">
-<img src="Assets/LOGOs/plat.png" height="48">
 
 </p>
 
@@ -469,6 +467,6 @@ I'm always open to collaborating on exciting engineering projects, robotics, emb
 
 ### *"Create • Build • Innovate"*
 
-If you like my work, consider following my journey.
+If you like my work, follow my journey!
 
 </div>
