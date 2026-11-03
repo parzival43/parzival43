@@ -95,7 +95,7 @@ My interests primarily revolve around:
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,bash,html,css,qt,"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,bash,html,css,"/>
 
 </p>
 
@@ -142,24 +142,23 @@ My interests primarily revolve around:
 
 <td width="40%" align="center">
 
-## 🎮 GameBox
-
-**RFID-Powered Desktop Automation Hub**
+<img src="Assets/PROJECTS/unibot.png">
 
 </td>
 
 <td width="60%">
 
-GameBox is a modern Windows desktop application that turns physical RFID cards into programmable automation triggers. Scan a card to launch apps, games, websites, commands, or custom multi-step workflows.
+# UniBot
+UniBots are small wireless robots that work together to accomplish a task collectively. A simple swarm robot!
 
 ### Highlights
 
-- Arduino Nano + RC522 RFID reader
-- Automatic serial-port detection and reconnection
-- RFID cards, workflows, actions, and activity logs stored in SQLite
-- Launch apps, Start Menu programs, files, folders, websites, and shell commands
-- Control Windows volume, Arduino RGB LEDs, delays, and desktop notifications
-- Responsive PySide6 interface with dashboard, cards, workflows, settings, and activity views
+- ESP12-E - Custom perfboard circuit
+- Hardware: AD002 + N20 Motors
+- Software: Micropython + Python(PynPut and Sockets)
+- two-axis articulated drive mechanism
+- Wi-Fi Communication
+- 
 
 **Tech:** Python, PySide6, SQLite, PySerial, PyCAW / COMTypes, Arduino C++
 
@@ -214,24 +213,25 @@ Active Development
 
 <td width="40%">
 
-<img src="Assets/PROJECTS/Blocky.jpeg">
-
+<img src="Assets/PROJECTS/dialpad.png">
+<img src="Assets/PROJECTS/casedialpad.png">
 </td>
 
 <td>
 
-# Blocky
+# DialPad!
 
-Designed and built a WiFi-controlled robot car with an expressive OLED face and a full browser-based control dashboard — no app required.
+A custom-designed macropad built around the Seeed Studio XIAO RP2040. Built to control 3D desgin softwares and Video Games!
 
 ### Specifications
 
-- ESP32-C3 Super Mini (WiFi)
-- 2x SG90 Servos (Modified Continuous Rotation)
-- 0.96" 128x64 OLED Display
+- XIAO RP2040-based hardware architecture
+- 12-key programmable macro controller
+- Integrated display, dual rotary encoders and joystick.
 - Li-Po Battery + TP4056 Charging
-- Web Dashboard (Joystick Control, Faces, Clock, Weather, Mini-Games)
-- 3D-Printed Chassis ([whybit.in](https://whybit.in/#/))
+- Resistor ladder wiring method - Ran out GPIOs!
+- Custom PCB designed in KiCad
+- Custom enclosure designed in Fusion 360
 
 </td>
 
@@ -247,24 +247,24 @@ Designed and built a WiFi-controlled robot car with an expressive OLED face and 
 
 <td width="40%">
 
-<img src="Assets/PROJECTS/LEAK ALERT.jpg">
+<img src="Assets/PROJECTS/entwinity.png">
 
 </td>
 
 <td>
 
-# Leak Alert Sentinel
+# Entwinity - Student Community Website
 
-A smart household safety device capable of detecting hazardous LPG and Carbon Monoxide leaks.
+This website serves as the central hub for the community, where visitors can learn about Entwinity, explore our clubs, connect with the community, and get in touch with our team.
 
 ### Features
 
-- ESP32
-- Wi-Fi Dashboard
-- Bluetooth Mobile App
-- MQ2 & MQ7 Sensors
-- Temperature & Humidity Monitoring
-- Real-Time Alerts
+- Completely self-hosted!
+- Using dynamic DNS from no-ip
+- HTML, CSS, JS
+- Python Flask - based backend Mail Service
+- No Code Club edits - Dynamic Club Loading
+- Dark and Light mode (atleast for a person like me)
 
 </td>
 
@@ -273,7 +273,7 @@ A smart household safety device capable of detecting hazardous LPG and Carbon Mo
 </table>
 
 ---
-
+<!-- 
 <table>
 
 <tr>
@@ -370,37 +370,28 @@ Ongoing Research
 </tr>
 
 </table>
-
+-->
 
 
 ---
 
 # 🏆 Experience & Leadership
 
-### President — THE QU4D COACH **(Oct 2025 - Present)**
+### Co-Founder - Knight Labs **(May 2025)**
 
-President of The QU4D COACH, a community dedicated to helping people learn and build their own drones. Leading technical development, mentoring, and making drone technology accessible through hands-on learning.
+Solving modern problems with IoT and 
+
+---
+
+### Vice President — THE QU4D COACH **(Oct 2025 - Present)**
+
+Vice President of The QU4D COACH, a community dedicated to helping people learn and build their own drones. Leading technical development, mentoring, and making drone technology accessible through hands-on learning.
 
 **Location:** India
 
 ---
 
-### Student Mentor @ STEAM Camp 2025 — DLF Public School **(May 2025)**
-
-Mentored students through hands-on STEM activities including robotics, drones, coding, aerodynamics, and astronomy. Fostered creativity, teamwork, and problem-solving through experiential learning.
-
----
-
-### DLF Public School **(2 years 1 month)**
-
-#### **Science Captain** (2023-2024)
-Led students in hands-on scientific exploration through experiments, research, and collaborative learning. Encouraged curiosity, innovation, and practical application of scientific concepts.
-
-#### **Cyber Captain** (2024-2025)
-Led initiatives to promote digital safety and responsible technology use within the school community. Mentored peers, organized awareness activities, and supported cybersecurity best practices.
-
----
-
+<!-- 
 # 📸 Gallery
 
 <table>
@@ -422,7 +413,7 @@ Led initiatives to promote digital safety and responsible technology use within 
 </tr>
 
 </table>
-
+-->
 ---
 
 # Currently Exploring
