@@ -211,8 +211,8 @@ Active Development
 
 <td width="40%">
 
-<img height="250px" src="Assets/PROJECTS/dialpad.png">
-<img height="250px" src="Assets/PROJECTS/casedialpad.png">
+<img height="250px" width="250px" src="Assets/PROJECTS/dialpad.png">
+<img height="250px" width="250px" src="Assets/PROJECTS/casedialpad.png">
 </td>
 
 <td>
@@ -375,9 +375,9 @@ Ongoing Research
 
 # 🏆 Experience & Leadership
 
-### Co-Founder - Knight Labs **(May 2025)**
+### Co-Founder - Knight Labs **(May 2025 - Present)**
 
-Solving modern problems with IoT and 
+At Knight Labs, We are passionate about creating new innovations that's gonna change the world. We automate stuff that's hard for you to do again and again. Both digitally and physically. We don't just create robots, we are creating opportunities for people to work for a greater cause.
 
 ---
 
@@ -389,29 +389,29 @@ Vice President of The QU4D COACH, a community dedicated to helping people learn 
 
 ---
 
-<!-- 
+
 # 📸 Gallery
 
 <table>
 
 <tr>
 
-<td><img src="Assets/MIsc/Cool photo of us with Pricipal Maa'am.jpeg" width="320" style="object-fit:cover"></td>
-<td><img src="Assets/MIsc/i Love my drones.jpg" width="320" style="object-fit:cover"></td>
-<td><img src="Assets/MIsc/qualified but trophy only.png" width="320" style="object-fit:cover"></td>
+<td><img src="Assets/MIsc/iitm-team.jpeg" width="320" style="object-fit:cover"></td>
+<td><img src="Assets/MIsc/wsc.jpeg" width="320" style="object-fit:cover"></td>
+<td><img src="Assets/MIsc/iitmpres.jpeg" width="320" style="object-fit:cover"></td>
 
 </tr>
 
 <tr>
 
-<td><img src="Assets/MIsc/Qualified with da homie.png" width="320" style="object-fit:cover"></td>
-<td><img src="Assets/MIsc/Random ah photo of Leakalert.png" width="320" style="object-fit:cover"></td>
-<td><img src="Assets/MIsc/StageFear But Still Did it.jpg" width="320" style="object-fit:cover"></td>
+<td><img src="Assets/MIsc/maboys.jpeg" width="320" style="object-fit:cover"></td>
+<td><img src="Assets/MIsc/inspire.jpeg" width="320" style="object-fit:cover"></td>
+<td><img src="Assets/MIsc/cbsesci.jpeg" width="320" style="object-fit:cover"></td>
 
 </tr>
 
 </table>
--->
+
 
 ---
 
