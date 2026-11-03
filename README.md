@@ -142,7 +142,7 @@ My interests primarily revolve around:
 
 <td width="40%" align="center">
 
-<img src="Assets/PROJECTS/unibot.png">
+<img height="250px" src="Assets/PROJECTS/unibot.png">
 
 </td>
 
@@ -158,9 +158,7 @@ UniBots are small wireless robots that work together to accomplish a task collec
 - Software: Micropython + Python(PynPut and Sockets)
 - two-axis articulated drive mechanism
 - Wi-Fi Communication
-- 
 
-**Tech:** Python, PySide6, SQLite, PySerial, PyCAW / COMTypes, Arduino C++
 
 </td>
 
@@ -213,8 +211,8 @@ Active Development
 
 <td width="40%">
 
-<img src="Assets/PROJECTS/dialpad.png">
-<img src="Assets/PROJECTS/casedialpad.png">
+<img height="250px" src="Assets/PROJECTS/dialpad.png">
+<img height="250px" src="Assets/PROJECTS/casedialpad.png">
 </td>
 
 <td>
@@ -383,7 +381,7 @@ Solving modern problems with IoT and
 
 ---
 
-### Vice President — THE QU4D COACH **(Oct 2025 - Present)**
+### Vice President — THE QU4D COACH **(Oct 2026 - Present)**
 
 Vice President of The QU4D COACH, a community dedicated to helping people learn and build their own drones. Leading technical development, mentoring, and making drone technology accessible through hands-on learning.
 
@@ -414,25 +412,12 @@ Vice President of The QU4D COACH, a community dedicated to helping people learn 
 
 </table>
 -->
----
-
-# Currently Exploring
-
-- Flight Controller Development
-- PCB Design
-- Embedded AI
-- ESP32 Development
-- Autonomous Robotics
-- RTOS
-- Computer Vision
-- Sensor Fusion
-- Drone Navigation
 
 ---
 
-# Future Goals
+# Goals
 
-- Build an open-source flight controller.
+- Bring our open-source flight controller to the market. 
 - Develop affordable engineering solutions for education.
 - Contribute to robotics and embedded systems research.
 - Pursue engineering focused on robotics, embedded systems, and aerospace technologies.
@@ -442,13 +427,13 @@ Vice President of The QU4D COACH, a community dedicated to helping people learn 
 
 # 🤝 Let's Connect
 
-I'm always open to collaborating on exciting engineering projects, robotics, embedded systems, PCB design, drones, and AI.
+I'm always open to collaborating on exciting ideas and engineering projects on robotics, embedded systems, PCB design, drones, and AI.
 
 <p>
 
-<a href="https://www.linkedin.com/in/prajeshnair">LinkedIn</a> •
-<a href="https://github.com/Prajesh-Nair">GitHub</a> •
-<a href="mailto:nairprajesh2007.github@gmail.com">Email</a>
+<a href="https://www.linkedin.com/in/senthilarasuj">LinkedIn</a> •
+<a href="https://github.com/parzival43">GitHub</a> •
+<a href="mailto:jaisenthil43@gmail.com">Email</a>
 
 </p>
 
